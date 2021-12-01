@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barenMaulana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Go language
+- 🌱 I’m currently learning Backend stack
 - 📫 How to reach me? this is my email if needed barenmaulana@gmail.com
 
 <!---
